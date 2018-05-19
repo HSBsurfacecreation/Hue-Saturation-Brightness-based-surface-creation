@@ -4,27 +4,11 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To get started, please download the step-by-step instructions in the Documentation folder as well as the 
 
 ### Prerequisites
 
 A competent 64-bit computer running Windows 10, with the necessary administrator rights. For the purposes of this tutorial, it also assumes that the computer has a fully licensed version of Imaris (version 8.4.2), FlowJo VX (version 10.4.1) and Microsoft Excel (2010). In many cases, older or newer versions of the software should have the same functionality as described, but may not necessarily be accessed in the same manner described.What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
 
 ```
 until finished
